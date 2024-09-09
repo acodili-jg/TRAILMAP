@@ -22,8 +22,5 @@ yarn ios
 
 * [package.json#scripts](package.json)
 * Expo CLI Documentation. https://docs.expo.dev/more/expo-cli
-
-### Other Resources
-
 * Expo Sign-up. https://expo.dev/signup
 * Android Studio Emulator. https://docs.expo.dev/workflow/android-studio-emulator/
