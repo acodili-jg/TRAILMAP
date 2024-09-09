@@ -17,8 +17,8 @@ Writer Note: I recommend using Expo Go on a real phone as I can't get it to work
 ```
 # Check the scripts section in package.json
 yarn start
-yarn android
 
+# Equivalent alternative
 npx expo start
 ```
 
