@@ -15,15 +15,14 @@ This will run the app and is usable through Expo Go.
 Writer Note: I recommend using Expo Go on a real phone as I can't get it to work on an emulator.
 
 ```
-# Check the scripts section in package.json
+# Starts Expo
 yarn start
 
-# Equivalent alternative
-npx expo start
+# Shortcut to start Expo for Android testing
+yarn android
 ```
 
-<sub>See: https://docs.expo.dev/get-started/start-developing/#start-a-development-server
-</sub>
+<sub>See: [package.json#scripts](package.json)</sub>
 
 ### 2. Without Expo Account
 
