@@ -15,6 +15,10 @@ This will run the app and is usable through Expo Go.
 Writer Note: I recommend using Expo Go on a real phone as I can't get it to work on an emulator.
 
 ```
+# Check the scripts section in package.json
+yarn start
+yarn android
+
 npx expo start
 ```
 
