@@ -15,11 +15,8 @@ This will run the app and is usable through Expo Go.
 Writer Note: I recommend using Expo Go on a real phone as I can't get it to work on an emulator.
 
 ```
-# Starts Expo
+# Start Expo; scan QR code using Expo Go
 yarn start
-
-# Shortcut to start Expo for Android testing
-yarn android
 ```
 
 <sub>See: [package.json#scripts](package.json)</sub>
